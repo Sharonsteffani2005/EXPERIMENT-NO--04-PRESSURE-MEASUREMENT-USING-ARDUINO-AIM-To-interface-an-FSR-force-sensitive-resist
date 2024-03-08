@@ -97,6 +97,8 @@ EX:           μ = (1.05 + 2.05 + 3.09 + 4.03 + 5.09 + 6.12 + 7.09 + 8.12 + 9.22
 σ = √(20.57 + 12.50 + 6.23 + 2.42 + 0.24 + 0.28 + 2.262 + 6.42 + 13.20 + 19.483)/10 = 2.891
  ### OUTPUT:
  ## FIGURE 01:
+ ![image](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144979934/d5818c05-9214-4528-9045-7781eb8c875b)
+
 ### LED ON:
 ![Screenshot 2024-03-01 183712](https://github.com/ezhilnevedha/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/140057992/a02402d7-c822-4653-ae0f-ac7ef0b149ce)
 
