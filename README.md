@@ -1,9 +1,9 @@
 # EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
 # DATE : 01.03.2024
-# NAME : EZHIL NEVEDHA.K
-# ROLLNUMBER : 212223230055
-# DEPARTMENT: ARTIFICIAL INTELLIGENCE & DATA SCIENCE
+# NAME : Sharon Steffani .F
+# ROLLNUMBER : 212223110049
+# DEPARTMENT: BE CSE(IOT)
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
@@ -100,13 +100,16 @@ EX:           μ = (1.05 + 2.05 + 3.09 + 4.03 + 5.09 + 6.12 + 7.09 + 8.12 + 9.22
  ![image](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144979934/d5818c05-9214-4528-9045-7781eb8c875b)
 
 ### LED ON:
-![Screenshot 2024-03-01 183712](https://github.com/ezhilnevedha/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/140057992/a02402d7-c822-4653-ae0f-ac7ef0b149ce)
+![Screenshot 2024-03-08 103417](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144979934/3b15d767-d470-4fc3-af91-fa0c1ee2cf3f)
+
 
 ### LED OFF:
-![Screenshot 2024-03-01 183734](https://github.com/ezhilnevedha/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/140057992/2a89753e-4ee0-40f3-9722-cd51e237d590)
+![Screenshot 2024-03-08 101852](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144979934/05754deb-f897-4312-8c10-31b9587ce524)
+
 
 ### SCHEMATIC VIEW:
-![Screenshot 2024-03-06 093804](https://github.com/ezhilnevedha/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/140057992/f355d96a-b35e-4b1f-834c-515ee62f23fe)
+![Screenshot 2024-03-08 102052](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144979934/e1c79389-fe8e-4ad6-92c0-473306efb7da)
+
 
 ### TABULATED VIEW:
 ![Screenshot 2024-03-01 183529](https://github.com/ezhilnevedha/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/140057992/ef401cf6-2d24-4c9e-9801-49df30902cae)
